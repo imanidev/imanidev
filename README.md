@@ -1,6 +1,6 @@
 ### Hi, I'm Imani. Thanks for stopping by!
 
-I'm an early-stage Software Engineer with a knack for front-end development and working towards becoming a full-Stack. 
+I'm an early-stage Software Engineer.
 
 Currently, I'm learning HTML, CSS, JavaScript and creating projects based off of them.
 
