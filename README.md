@@ -2,7 +2,7 @@
 
 I'm an early-stage Software Engineer.
 
-Currently, I'm learning HTML, CSS, JavaScript and creating projects based off of them.
+Currently, I'm JavaScript and creating projects based off of them.
 
 I am open to collaborate with businesses of all sizes and individuals.
 
