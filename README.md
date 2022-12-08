@@ -8,4 +8,4 @@ I am open to collaborate with businesses and individuals.
 
 Also, feel free to check out my [blog](https://imanidevelops.hashnode.dev/)
 
-Contact information: imaniroberts.dev@gmail.com
+You can contact me at imaniroberts.dev@gmail.com
