@@ -1,6 +1,6 @@
 ### Hi, I'm Imani. Thanks for stopping by!
 
-I'm an early-stage Software Engineer excited to.
+I'm an early-stage Software Engineer excited to learn more about code, solve problems and to build cool stuff along the way.
 
 Currently, I am learning CSS and JavaScript.
 
