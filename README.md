@@ -2,7 +2,7 @@
 
 I'm a Software Engineer excited to learn more about code, solve problems and to build exciting and innovative tools along the way.
 
-Currently, I am learning JavaScript and Python.
+Currently, I am learning JavaScript.
 
 I am open to collaborate with businesses and individuals.
 
