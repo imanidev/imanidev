@@ -1,11 +1,20 @@
-### Hi, I'm Imani. Thanks for stopping by!
+# Hi, I'm Imani! 👋
 
-I'm a Software Engineer excited to learn more about code, solve problems and to build exciting and innovative tools along the way.
+I'm a Software Engineer who loves learning new tools and creating interactive applications. Welcome to my GitHub profile!
 
-Currently learning: React ⚛
+## Learning 📚
 
-I am open to collaborate with businesses and individuals.
+- React ⚛️: Currently focused on mastering React for dynamic UIs.
 
-Also, feel free to check out my [blog](https://imanidevelops.hashnode.dev/)
+## Collaboration 💡
 
-You can contact me at imaniroberts.dev@gmail.com
+I'm open to working with businesses and individuals on projects.
+
+## Interests 🌟
+
+- Exploring new tools and frameworks
+- Developing interactive applications
+- Gardening 
+- Playing videogames
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/imaniroberts/) or email me at imaniroberts.dev@gmail.com.
