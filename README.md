@@ -1,20 +1,20 @@
-# Hi, I'm Imani! 
+# Hi, I'm Imani. Glad you could stop by!
 
-I'm a Fullstack Software Engineer who loves learning new tools and creating interactive applications.
+ I'm a Fullstack Software Engineer who's always excited to learn new tools and build interactive and user-friendly apps.
 
-## Learning 📚
+## 📚 On My Learning Plate:
 
-- React: Currently focused on building using React for dynamic UIs.
+- React: Been diving into React to create dynamic and eye-catching UIs
 
-## Collaboration 💡
+## 🤝Wanna Team Up?
 
-I'm open to working with businesses and individuals on projects.
+I'm up for collaborating on open source projects with businesses or individuals. Let's create something awesome together!
 
-## Interests 🌟
+## 🌟 What I'm Into:
 
-- Exploring new tools and frameworks
-- Developing interactive applications
-- Gardening 
-- Playing videogames
+- Exploring the latest and greatest in tech
+- Crafting user-friendly apps to make life easier
+- Sharing insights and experiences with my fellow developers
+- Outside of coding, I enjoy gardening and taking much-needed naps
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/imaniroberts/) or email me at imaniroberts.dev@gmail.com.
+Wanna connect? Find me on [LinkedIn](https://www.linkedin.com/in/imaniroberts/) or send me an email at imaniroberts.dev@gmail.com.
