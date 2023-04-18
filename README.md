@@ -1,10 +1,10 @@
-# Hi, I'm Imani! 👋
+# Hi, I'm Imani! 
 
-I'm a Software Engineer who loves learning new tools and creating interactive applications. Welcome to my GitHub profile!
+I'm a Fullstack Software Engineer who loves learning new tools and creating interactive applications.
 
 ## Learning 📚
 
-- React ⚛️: Currently focused on mastering React for dynamic UIs.
+- React: Currently focused on building using React for dynamic UIs.
 
 ## Collaboration 💡
 
