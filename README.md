@@ -15,7 +15,7 @@ I'm up for collaborating on open source projects with businesses or individuals.
 
 - Exploring the latest and greatest in tech
 - Crafting user-friendly apps to make life easier
-- Sharing insights and experiences with other developers
+- Sharing insights and learning with other developers
 - Gardening and taking much-needed naps
 
 
