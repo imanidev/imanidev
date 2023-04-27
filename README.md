@@ -1,6 +1,6 @@
 # Hi, I'm Imani. Glad you could stop by!
 
-I'm a Fullstack Developer who's always excited to learn new tools and build interactive and user-friendly apps.
+I'm a Fullstack Developer who's always excited to learn new tools and build interactive and user-friendly toos.
 
 ## 📚 On My Learning Plate:
 
