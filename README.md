@@ -1,11 +1,14 @@
 # Hi, I'm Imani. Glad you could stop by!
 
-I'm a Fullstack Developer who's always excited to learn new tools and build interactive and user-friendly toos.
+I'm a Software Developer who's always excited to learn new tools and build interactive and user-friendly tools.
 
 ## 📚 On My Learning Plate:
 
 - React: Been diving into React to create dynamic and eye-catching UIs
-- CRUD: Brushing up on CRUD (Create, Read, Update, Delete) operations, which are essential for building robust and functional applications that interact with databases.
+- CRUD: Brushing up on CRUD (Create, Read, Update, Delete) operations
+- Bootstrap
+- Tailwind
+- Typescript
 
 ## 🌟 What I'm Into:
 
