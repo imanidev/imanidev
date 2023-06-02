@@ -4,8 +4,6 @@ I'm a Software Developer who's always excited to learn new tools and crafting am
 
 ## 📚 On My Learning Plate:
 
-- React
-- Bootstrap
 - Tailwind
 - Typescript
 
