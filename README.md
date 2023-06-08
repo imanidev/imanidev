@@ -1,6 +1,6 @@
 # Hi, I'm Imani. Glad you could stop by!
 
-I'm a Software Developer who's always excited to learn new tools and crafting amazing user experiences.
+I'm a Software Developer who's always excited to learn new tools and craft amazing user experiences.
 
 ## 📚 On My Learning Plate:
 
