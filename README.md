@@ -1,6 +1,6 @@
 # Hi, I'm Imani. Glad you could stop by!
 
-I'm a Software Developer who's always excited to learn new tools and craft amazing user experiences.
+I'm a Front End Developer who's always excited to learn new tools and craft amazing user experiences.
 
 ## 📚 On My Learning Plate:
 
@@ -15,6 +15,6 @@ I'm a Software Developer who's always excited to learn new tools and craft amazi
 - Gardening and taking much-needed naps
 
 ## 🤝 Let's team up
-I'm up for collaborating on open source projects with businesses or individuals. Let's create something awesome together!
+I'm up for collaborating on open-source projects with businesses or individuals. Let's create something awesome together!
 
 Wanna connect? Find me on [LinkedIn](https://www.linkedin.com/in/imaniroberts/) or send me an email at imaniroberts.dev@gmail.com.
