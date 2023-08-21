@@ -1,10 +1,12 @@
 # Hi, I'm Imani. Glad you could stop by!
 
-I'm a Front End Developer who's always excited to learn new tools and craft amazing user experiences.
+I'm someone who's always excited to learn new tools and craft amazing user experiences.
 
 ## 📚 On My Learning Plate:
 
-- Tailwind
+- Java
+- SQL
+- Spring Boot
 - Typescript
 
 ## 🌟 What I'm Into:
