@@ -1,12 +1,11 @@
 # Hi, I'm Imani. Glad you could stop by!
 
-I'm someone who's always excited to learn new tools and craft amazing user experiences.
+I'm always excited to learn new tools and craft amazing user experiences.
 
 ## 📚 On My Learning Plate:
 
-- Java
-- SQL
-- Spring Boot
+- JavaScript
+- Python
 - Typescript
 
 ## 🌟 What I'm Into:
