@@ -4,9 +4,9 @@ I'm always excited to learn new tools and craft amazing user experiences.
 
 ## 📚 On My Learning Plate:
 
-- JavaScript
 - Python
 - Typescript
+- LLMs
 
 ## 🌟 What I'm Into:
 
